@@ -1,0 +1,203 @@
+{
+    "color_palette": "pink tones",
+    "days": [
+        {
+            "day": 1,
+            "sections": {
+                "Pectoral": [
+                    {
+                        "exercise": "Chest Press",
+                        "sets": 3,
+                        "reps": 10
+                    },
+                    {
+                        "exercise": "Peck Deck",
+                        "sets": 3,
+                        "reps": 12
+                    },
+                    {
+                        "exercise": "Press en banco inclinado barra/manc",
+                        "sets": 3,
+                        "reps": 12
+                    }
+                ],
+                "Biceps": [
+                    {
+                        "exercise": "Curl con mancuerna",
+                        "sets": 3,
+                        "reps": 15
+                    },
+                    {
+                        "exercise": "Curl martillo",
+                        "sets": 3,
+                        "reps": 15
+                    },
+                    {
+                        "exercise": "Curl inclinado",
+                        "sets": 3,
+                        "reps": 12
+                    }
+                ],
+                "Core": [
+                    {
+                        "exercise": "Espinales maq.",
+                        "sets": 3,
+                        "reps": 15
+                    },
+                    {
+                        "exercise": "Abdominales maq.",
+                        "sets": 3,
+                        "reps": 15
+                    },
+                    {
+                        "exercise": "Plancha",
+                        "sets": 3,
+                        "duration": "30 segundos"
+                    },
+                    {
+                        "exercise": "Abd. colchoneta",
+                        "sets": 3,
+                        "reps": 15
+                    }
+                ]
+            }
+        },
+        {
+            "day": 2,
+            "sections": {
+                "Hombros": [
+                    {
+                        "exercise": "Shoulder Press",
+                        "sets": 3,
+                        "reps": 10
+                    },
+                    {
+                        "exercise": "Vuelo frontale manc.",
+                        "sets": 3,
+                        "reps": 12
+                    },
+                    {
+                        "exercise": "Vuelo lateral manc.",
+                        "sets": 3,
+                        "reps": 12
+                    }
+                ],
+                "Piernas/Gluteos": [
+                    {
+                        "exercise": "Leg Curl",
+                        "sets": 3,
+                        "reps": 12
+                    },
+                    {
+                        "exercise": "Leg Extension",
+                        "sets": 3,
+                        "reps": 12
+                    },
+                    {
+                        "exercise": "Maq. aductores",
+                        "sets": 3,
+                        "reps": 12
+                    },
+                    {
+                        "exercise": "Maq. abductores",
+                        "sets": 3,
+                        "reps": 15
+                    },
+                    {
+                        "exercise": "Sentadilla",
+                        "sets": 3,
+                        "reps": 10
+                    },
+                    {
+                        "exercise": "Estocadas",
+                        "sets": 3,
+                        "reps": 12
+                    }
+                ],
+                "Core": [
+                    {
+                        "exercise": "Espinales maq.",
+                        "sets": 3,
+                        "reps": 15
+                    },
+                    {
+                        "exercise": "Abdominales maq.",
+                        "sets": 3,
+                        "reps": 15
+                    },
+                    {
+                        "exercise": "Plancha",
+                        "sets": 3,
+                        "duration": "30 segundos"
+                    },
+                    {
+                        "exercise": "Abd. colchoneta",
+                        "sets": 3,
+                        "reps": 15
+                    }
+                ]
+            }
+        },
+        {
+            "day": 3,
+            "sections": {
+                "Espalda": [
+                    {
+                        "exercise": "Vertical Trac",
+                        "sets": 3,
+                        "reps": 12
+                    },
+                    {
+                        "exercise": "Low Row",
+                        "sets": 3,
+                        "reps": 12
+                    },
+                    {
+                        "exercise": "Lat. con triángulo",
+                        "sets": 3,
+                        "reps": 12
+                    }
+                ],
+                "Triceps": [
+                    {
+                        "exercise": "Extensión en p. con soga",
+                        "sets": 3,
+                        "reps": 12
+                    },
+                    {
+                        "exercise": "Press Francés",
+                        "sets": 3,
+                        "reps": 10
+                    },
+                    {
+                        "exercise": "Fondos banco",
+                        "sets": 3,
+                        "reps": 10
+                    }
+                ],
+                "Core": [
+                    {
+                        "exercise": "Espinales maq.",
+                        "sets": 3,
+                        "reps": 15
+                    },
+                    {
+                        "exercise": "Abdominales maq.",
+                        "sets": 3,
+                        "reps": 15
+                    },
+                    {
+                        "exercise": "Plancha",
+                        "sets": 3,
+                        "duration": "30 segundos"
+                    },
+                    {
+                        "exercise": "Abd. colchoneta",
+                        "sets": 3,
+                        "reps": 15
+                    }
+                ]
+            }
+        }
+    ]
+}
